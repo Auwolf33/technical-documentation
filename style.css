@@ -1,0 +1,14 @@
+main {
+    font-family: "Roboto", sans-serif;
+}
+.main-section header {
+    font-size: 22px;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+code {
+    background-color: lightgray;
+}
+.code-block {
+    background-color: lightgray;
+}
