@@ -1,0 +1,1 @@
+A short technical documentation I did for a project on freecodecamp.com. You can access the site here: [auwolf33.github.io/technical-documentation/](https://auwolf33.github.io/technical-documentation/)
